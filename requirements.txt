@@ -1,0 +1,45 @@
+﻿streamlit==1.52.1
+
+# LangChain + agent/runtime
+langchain==1.2.0
+langchain-core==1.2.6
+langchain-community==0.4.1
+langchain-openai==1.1.0
+langchain-text-splitters==1.0.0
+langgraph==1.0.4
+langgraph-checkpoint==3.0.1
+langgraph-prebuilt==1.0.5
+
+# OpenAI + token counting
+openai==1.109.1
+tiktoken==0.12.0
+
+# Vector DB
+faiss-cpu==1.13.2
+
+# Http and Data
+pandas==2.3.3
+numpy==2.2.6
+httpx==0.28.1
+requests==2.32.5
+
+# RSS parsing
+feedparser==6.0.12
+beautifulsoup4==4.14.2
+
+# Env vars
+python-dotenv==1.1.0
+
+# Global rate limiting (Firestore)
+google-cloud-firestore==2.22.0
+
+# MCP tools (Alpha Vantage)
+mcp==1.23.2
+langchain-mcp-adapters==0.2.1
+
+# Retries for tool calls
+tenacity==9.1.2
+
+# Ticker data
+yfinance
+
