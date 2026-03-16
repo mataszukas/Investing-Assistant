@@ -182,8 +182,8 @@ Cloud Run references:
 
 ### 1) Clone the repo
 ```bash
-git clone https://github.com/TuringCollegeSubmissions/mzukas-AE.2.5/
-cd mzukas-AE.2.5
+git clone https://github.com/mataszukas/Investing-Assistant.git
+cd Investing-Assistant
 ```
 
 ### 2) Install dependencies
